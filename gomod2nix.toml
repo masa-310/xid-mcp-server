@@ -1,0 +1,18 @@
+schema = 3
+
+[mod]
+  [mod."github.com/google/jsonschema-go"]
+    version = "v0.3.0"
+    hash = "sha256-GIVEtsm2C1nUWa3lOh56Z8dEYS4vRDQeTpiy1mIFXUg="
+  [mod."github.com/modelcontextprotocol/go-sdk"]
+    version = "v1.2.0"
+    hash = "sha256-eZJr7ru3v3l3t46EhLYW7TuGqWFnx172vJA0SIoaOWA="
+  [mod."github.com/rs/xid"]
+    version = "v1.6.0"
+    hash = "sha256-rJB7h3KuH1DPp5n4dY3MiGnV1Y96A10lf5OUl+MLkzU="
+  [mod."github.com/yosida95/uritemplate/v3"]
+    version = "v3.0.2"
+    hash = "sha256-znUsCrfogPwAUNsdxBL93jIW/joercUm7RxKSExuWTM="
+  [mod."golang.org/x/oauth2"]
+    version = "v0.30.0"
+    hash = "sha256-btD7BUtQpOswusZY5qIU90uDo38buVrQ0tmmQ8qNHDg="
