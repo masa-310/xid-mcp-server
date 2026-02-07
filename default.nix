@@ -14,7 +14,7 @@
 }:
 
 buildGoApplication {
-  pname = "myapp";
+  pname = "xid-mcp-server";
   version = "0.1";
   pwd = ./.;
   src = ./.;
